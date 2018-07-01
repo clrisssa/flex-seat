@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "d3-seating-chart",
+        "scope": null,
+        "escapedName": "d3-seating-chart",
+        "name": "d3-seating-chart",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/Clarissa/Documents/SMU/jpmorgan/flex-seat"
+    ]
+  ],
+  "_from": "d3-seating-chart@latest",
+  "_id": "d3-seating-chart@2.1.0",
+  "_inCache": true,
+  "_location": "/d3-seating-chart",
+  "_nodeVersion": "6.11.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/d3-seating-chart-2.1.0.tgz_1503207105435_0.6464654777664691"
+  },
+  "_npmUser": {
+    "name": "iamchairs",
+    "email": "micahwllmsn@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "d3-seating-chart",
+    "scope": null,
+    "escapedName": "d3-seating-chart",
+    "name": "d3-seating-chart",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/d3-seating-chart/-/d3-seating-chart-2.1.0.tgz",
+  "_shasum": "874ffa380bafdcd8abcbc24a81b0567b2ccfc198",
+  "_shrinkwrap": null,
+  "_spec": "d3-seating-chart",
+  "_where": "/Users/Clarissa/Documents/SMU/jpmorgan/flex-seat",
+  "author": {
+    "name": "Micah Williamson"
+  },
+  "bugs": {
+    "url": "https://github.com/iamchairs/d3-seating-chart/issues"
+  },
+  "contributors": [],
+  "dependencies": {
+    "@types/d3": "^4.10.0",
+    "d3": "^4.10.0"
+  },
+  "description": "A simple but pleasant seating chart written using d3js",
+  "devDependencies": {
+    "ts-loader": "^2.3.2",
+    "typescript": "^2.4.2",
+    "webpack": "^3.4.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "874ffa380bafdcd8abcbc24a81b0567b2ccfc198",
+    "tarball": "https://registry.npmjs.org/d3-seating-chart/-/d3-seating-chart-2.1.0.tgz"
+  },
+  "engines": {},
+  "gitHead": "836cbc17a2959676d472c75933b6815d91b7f725",
+  "homepage": "https://github.com/iamchairs/d3-seating-chart#readme",
+  "keywords": [
+    "d3-seating-chart",
+    "d3",
+    "d3js",
+    "seating",
+    "chart",
+    "tickets"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "iamchairs",
+      "email": "micahwllmsn@gmail.com"
+    }
+  ],
+  "name": "d3-seating-chart",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamchairs/d3-seating-chart.git"
+  },
+  "scripts": {},
+  "version": "2.1.0"
+}
